@@ -9,7 +9,7 @@
 
 // тестовые данные (значения можно менять)
 const isAdmin = true
-const isVerifiedUser = true
+const isVerifiedUser = false
 const hasSpecialPermission = true
 const hasTemporaryPass = false
 

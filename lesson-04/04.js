@@ -15,7 +15,7 @@
 function doubleEachCharacter(str) {
     let result = '';
     for (let i = 0; i < str.length; i++) {
-        result += str[i].Repeat(2);
+        result += str[i].repeat(2);
     }
     return result;
 }
